@@ -1,5 +1,5 @@
 # JSPractice_itSchool
-JS tasks from IT school
+JS tasks for IT school
 
 
 Task 1:
