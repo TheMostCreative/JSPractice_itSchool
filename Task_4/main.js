@@ -1,3 +1,19 @@
+//without substrings 
+function isCharPresent(symbol, string) {
+      for(i = 0; i < string.length; i++){
+          if (string[i] === symbol){
+             return true;
+          }
+    
+          }
+        return false;  
+    }
+
+
+
+
+/*************************************************************/
+//with substrings 
 var str = "qwerty";
 var b = "x"
 var a;
@@ -15,3 +31,5 @@ for(i = 0; i < str.length; i++)
      }
     }  
 }
+
+
